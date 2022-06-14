@@ -1,4 +1,4 @@
-package com.frakmoley.sbet.bootingweb;
+package com.frakmoley.bootingweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
